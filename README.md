@@ -3,6 +3,7 @@ Cisco Packet Tracer Lab - Network Diagram
 Overview
 
 This is a lab I created to practice network design and configuration using Cisco Packet Tracer. The topology includes routers, switches, firewalls, PCs, and servers, as well as an attacking laptop for security testing.
+![picture](https://github.com/user-attachments/assets/0f643a3d-0a6a-4018-9572-de50ee209f8c)
 
 Lab Instructions
 
